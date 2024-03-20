@@ -3,6 +3,9 @@
   "version": "1.0.0-beta.0",
   "description": "Lynet ESLint formatter",
   "exports": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
   "engines": {
     "node": ">=16"
   },
